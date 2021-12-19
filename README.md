@@ -6,7 +6,7 @@ Hi, I'm Mohamed EL BAHA!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Machine+Learning+Engineer;Data+Scientist"></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%2C+I'am+Mohamed+El+Baha%2C+a+Data+Scientist+from+France.;a+Data+Scientist+from+France."></a>
 </p>
 <hr/>
 <samp>
