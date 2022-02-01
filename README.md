@@ -1,7 +1,5 @@
 <h2 align="center">
 Hi, I'm Mohamed EL BAHA!
-![](https://komarev.com/ghpvc/?username=mohamedELBAHA&color=green)
-
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
   <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a>
 <br/>
