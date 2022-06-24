@@ -23,4 +23,3 @@ Hi, I'm Mohamed EL BAHA!
 	<a href="mailto:elbahamohamed@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mohamedELBAHA&show_icons=true)
